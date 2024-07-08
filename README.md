@@ -1,2 +1,4 @@
 # simple-net
 This repository gives a simple net (784  784*100  100*10), with accuracy :92.77% (for now)
+
+![result-2024.7.8](img/result-fornow.png)
